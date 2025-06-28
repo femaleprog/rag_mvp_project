@@ -1,0 +1,15 @@
+{
+  "Evaluation": "Besoins de renforcer la gestion de projet et la communication.",
+  "trainings": [
+    {
+      "Content": "Le programme de formation en gestion de projets innovants vise à encourager la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming collaboratif.",
+      "Type": "programme de formation",
+      "Source": "https://fakeurl.com/doc/projets-innovants"
+    },
+    {
+      "Content": "Cette formation en négociation internationale aborde les techniques spécifiques pour mener des négociations transfrontalières, en prenant en compte les différences culturelles et les réglementations internationales.",
+      "Type": "programme de formation",
+      "Source": "https://fakeurl.com/doc/negociation-internationale"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Number of employees": 2,
+  "individual_reports": [
+    {
+      "employee_name": "Marie Dupont",
+      "evaluation": "Besoins de renforcer la gestion de projet et la communication.",
+      "score": 70,
+      "recommended_trainings": [
+        {
+          "content": "Le programme de formation en gestion de projets innovants vise à encourager la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming collaboratif.",
+          "type": "programme de formation",
+          "source": "https://fakeurl.com/doc/projets-innovants"
+        }
+      ],
+      "synthèse": "- Points forts : non mentionnés. - Points à améliorer : besoins de renforcer la gestion de projet et la communication. - Domaines de formations recommandées : gestion de projets."
+    },
+    {
+      "employee_name": "Jean Martin",
+      "evaluation": "Compétences techniques satisfaisantes, mais manque d'initiative.",
+      "score": 65,
+      "recommended_trainings": [
+        {
+          "content": "Le programme de formation en gestion de projets innovants vise à encourager la créativité et l'expérimentation, en intégrant des méthodologies de prototypage rapide et des techniques de brainstorming collaboratif.",
+          "type": "programme de formation",
+          "source": "https://fakeurl.com/doc/projets-innovants"
+        }
+      ],
+      "synthèse": "- Points forts : non mentionnés. - Points à améliorer : manque d'initiative. - Domaines de formations recommandées : gestion de projets innovants, prototypage rapide, brainstorming collaboratif."
+    }
+  ]
+}
